@@ -12,6 +12,7 @@ namespace Kassensystem_v2._0
 		public MainPage()
 		{
 			InitializeComponent();
+            //init
 		}
 	}
 }
